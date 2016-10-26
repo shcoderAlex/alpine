@@ -1,4 +1,4 @@
-# alpine-glibc
+# alpine:glibc
 
 ```
 FROM shcoder/alpine:glibc
